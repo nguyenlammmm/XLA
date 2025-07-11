@@ -3,8 +3,8 @@ Nộp Bài + Readme (Lab 2)
 
 README – Báo cáo xử lý ảnh (Bài 1–4)
 
-Họ tên: Lê Quý Phương
-MSSV: 2174802010072
+Họ tên: Nguyễn Thanh Lâm
+MSSV: 207OT29192
 Lớp: 71ITAI40803
 GVHD: Nguyễn Thái Anh
 
